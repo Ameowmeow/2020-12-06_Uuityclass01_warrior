@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 51711ed35b25bea4e9dbc44f71769b5f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: College Squad
+  fontNames:
+  - College Squad
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0bce65cc191ffed488c868bf27cbf22a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
