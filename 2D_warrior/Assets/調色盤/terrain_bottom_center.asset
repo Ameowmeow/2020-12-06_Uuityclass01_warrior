@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: terrain_bottom_center
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 21300000, guid: 4a00c1c669fce484ba5add37690dfeab, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 0ea3af26abbb7a94a8dd331920a06a26, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1

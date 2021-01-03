@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: terrain_corner_inner_top_right
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 21300000, guid: 2d792f53d0c22544d8a796a6a74e9175, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 4b1058affda771044aa7979ce4fbafdf, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
